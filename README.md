@@ -1,14 +1,14 @@
-# ProtoSchool [LOCATION]
+# ProtoSchool Xiamen
 
-Welcome to the [LOCATION] chapter of [ProtoSchool](https://proto.school)!
+Welcome to the Xiamen chapter of [ProtoSchool](https://proto.school)!
 
 We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!
 
 ## Organizers
 
 Our chapter's leadership team includes:
-* [NAME] ([@[HANDLE]](https://github.com/[HANDLE]))
-* [NAME] ([@[HANDLE]](https://github.com/[HANDLE]))
+* Junyao Ren ([@junyaoren](https://github.com/junyaoren))
+
 
 ## Code of Conduct
 
