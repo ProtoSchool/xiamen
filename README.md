@@ -15,6 +15,7 @@ We will be holding up to 20 meetups in the coming months in cities in China and 
 
 Our chapter's leadership team includes:
 * [Junyao Ren](renjunyao@gmail.com) ([@junyaoren](https://github.com/junyaoren))
+* [Jiang Jiang](jiangj@ipfsfirst.com)
 * [Mitchell Su](mitchell@ipfs.fund)
 
 We run as a team from IPFSFirst.com and IPFS.方得 community. If you are also interested in help organizing, please contact [@junyaoren](https://github.com/junyaoren). 
