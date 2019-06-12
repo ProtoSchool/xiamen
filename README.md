@@ -28,7 +28,7 @@ We run as a team from IPFSFirst.com and IPFS.方得 community. If you are also i
 
 ## Next Move to Know More
 
-- Check our media website [IPFSFirst.com](IPFSFirst.com). 
+- Check our media website [IPFSFirst.com](https://IPFSFirst.com). 
 - Contact us on WeChat (ID: @jiangjun1716) if you want to join us on meetups or live Q&A. 
 
 ## Past Events
