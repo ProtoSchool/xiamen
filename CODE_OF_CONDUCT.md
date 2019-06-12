@@ -67,7 +67,7 @@ to agree with and abide by this Code of Conduct.
 ## Enforcement & Reporting Procedure
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting chapter organizer **Junyao Ren** at
+reported by contacting chapter organizer(s) at **[xiamen.protoschool@gmail.com](mailto:xiamen.protoschool@gmail.com)** or more specifically to chapter leader, **Junyao Ren** at
 **[jren@scu.edu](mailto:jren@scu.edu)**. All complaints
 will be reviewed and investigated and will result in a response that is deemed
 necessary and appropriate to the circumstances. The chapter organizing team is
